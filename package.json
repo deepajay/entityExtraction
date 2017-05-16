@@ -1,0 +1,16 @@
+{
+  "name": "entityextraction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "entity-finder": "^0.4.1",
+    "retext": "^5.0.0",
+    "retext-keywords": "^4.0.0"
+  }
+}
